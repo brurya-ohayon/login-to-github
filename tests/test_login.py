@@ -20,3 +20,6 @@ def test_sign_in_to_github(page: Page):
 
     # login.expectNotOnLoginPage()
     # expect(login.userMenu()).to_be_visible()
+
+
+    
